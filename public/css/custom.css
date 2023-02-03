@@ -1,0 +1,34 @@
+/* #container img{
+   color: #000;
+} */
+.navbar{
+   /* background-color:blueviolet; */
+}
+#container img{
+   color: aqua;
+   position: relative;
+   width: 60px;
+   height:50px;
+}
+.mainul{
+   font-size: 15px;
+   font-family: 'Times New Roman', Times, serif;
+}
+@media screen and (max-width: 480px) {
+   body {
+     background-color: white;
+   }
+ }
+ @media screen and (max-width:200) {
+   #tbl{
+      margin: auto;
+      /* width: 100%; */
+      
+      text-align: center;
+      
+   }
+   /* body{
+      background-color: brown;
+   } */
+ }
+ 
